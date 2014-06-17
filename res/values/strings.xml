@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Google Image Search</string>
+	<string name="setting">Setting</string>
+	<string name="search">Search</string>
+	<string name="save">Save</string>
+	<string name="imageSize">Image Size</string>
+	<string name="imageColor">Image Color</string>
+	<string name="imageType">Image Type</string>
+	<string name="siteFilter">Site Filter</string>
+	<string name="searchOptions">Advanced Search Options</string>
+	<string name="share">Share</string>
+	<string name="enterSearch">Enter image search</string>
+	<string name="title_activity_image_display">ImageDisplayActivity</string>
+	<string name="hello_world">Hello world!</string>
+</resources>
