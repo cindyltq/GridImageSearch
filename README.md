@@ -1,9 +1,9 @@
 Grid Image Search
 ==================
 
-This is the second assignment app of Android Boot Camp. This app uses Google Image Search API to search for images based on users' settings on images attributes including color, size, type, and the site search within. The returned result is displayed on an endless rolling grid. By clicking each image icon, users can view enlarged images and can change the scale of the image, and can share the image via email. 
+This is the second assignment app of Android Boot Camp. This app uses Google Image Search API to search for images based on users' settings on images attributes including color, size, type, and the site search within. The returned image results are displayed on an endless scolling grid. By clicking each image icon, users can view an enlarged image and can change the scale of the image, and can share the image via email. 
 
-Time spent: 10 hours spent in total
+Time spent: 30 hours spent in total
 
 Completed user stories (Required):
 
