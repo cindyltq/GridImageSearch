@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Google Image Search</string>
+	<string name="app_name">Image Search</string>
 	<string name="setting">Setting</string>
 	<string name="search">Search</string>
 	<string name="save">Save</string>

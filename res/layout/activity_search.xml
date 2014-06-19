@@ -3,36 +3,13 @@
 	android:layout_width="match_parent"
 	android:layout_height="match_parent"
 	tools:context="${packageName}.${activityClass}" >
-       <EditText
-    	android:id="@+id/etQuery"
-    	android:layout_width="wrap_content"
-    	android:layout_height="wrap_content"
-    	android:layout_alignParentTop="true"
-    	android:layout_toLeftOf="@+id/btnSearch"
-    	android:ems="10"
-    	android:hint="@string/enterSearch"
-    	android:textAppearance="?android:attr/textAppearanceLarge" >
-    	<requestFocus />
-    </EditText>
-    <Button
-    	android:id="@+id/btnSearch"
-    	android:layout_width="wrap_content"
-    	android:layout_height="wrap_content"
-    	android:layout_alignParentRight="true"
-    	android:layout_alignParentTop="true"
-    	android:layout_marginRight="16dp"
-    	android:gravity="center_vertical|center_horizontal|start"
-    	android:text="@string/search"
-    	android:textAlignment="center" 
-    	android:onClick="onSearchAction"/>
-         <GridView
-     	android:id="@+id/gvImages"
-     	android:layout_width="match_parent"
-     	android:layout_height="wrap_content"
-     	android:layout_alignParentLeft="true"
-     	android:layout_below="@+id/etQuery"
-     	android:layout_margin="10dp"
-     	android:layout_marginTop="25dp"
-     	android:numColumns="3" >
-    </GridView>
+	<GridView
+		android:id="@+id/gvImages"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentLeft="true"
+		android:layout_margin="10dp"
+		android:layout_marginTop="25dp"
+		android:numColumns="3" >
+	</GridView>
 </RelativeLayout>
